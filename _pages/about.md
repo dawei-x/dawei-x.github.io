@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a recent master graduate in computer science from [Washington University in St. Louis](https://wustl.edu/). My research interest centers around general responsible AI/ML, social computing & HCI, and data-driven societal applications, with a primary focus on three interconnected topics:
+I am a recent master graduate in computer science from [Washington University in St. Louis](https://wustl.edu/). My research interest centers generally around responsible AI/ML, social computing & HCI, and data-driven societal applications, with a primary focus on three interconnected topics:
 - **Uncertainty Quantification** 
   - Distribution-free approaches like conformal prediction and risk control to effectively quantify and communicate uncertainty.
 - **Human-Centered Computing & Human-AI Interaction**
