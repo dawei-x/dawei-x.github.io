@@ -20,13 +20,13 @@ social: true  # includes social icons at the bottom of the page
 I am a recent master graduate in computer science from [Washington University in St. Louis](https://wustl.edu/). My research interest centers generally around responsible AI/ML, social computing & HCI, and data-driven societal applications, with a primary focus on three interconnected topics:
 - **Uncertainty Quantification** 
   - Distribution-free approaches like conformal prediction and risk control to effectively quantify and communicate uncertainty.
-- **Human-Centered Computing & Human-AI Interaction**
+- **Human-Centered Computing in Human-AI Interaction**
   - Advancing explainability in AI-assisted decision making;
   - Calibrating and aligning AI models with human values.
-- **Data-Centric AI in Societal Systems**
-  - Incorporating multiple data modalities to address imperfect data quality;
-  - Measuring *representivity* from human annotations to inform crowdsourcing pipelines.
+- **Data-Centric AI for Societal Systems**
+  - Incorporating rich data modalities to tackle imperfect data quality;
+  - Measuring representivity and uncertainty of human annotations to inform crowdsourcing pipelines.
 
-I obtained my bachelor's degree in CS from Southwest University (Chongqing, China). Prior to grad school, my research revolved around uncertainty representation & reasoning, decision making under uncertainty, causal inference, and decision support systems.
+I obtained my bachelor's degree in CS from Southwest University (Chongqing, China). Prior to grad school, my research revolved around uncertainty representation & reasoning, decision making under uncertainty, causal inference, and preference aggregation for decision support systems.
 
 Please check my **[C.V.](./assets/pdf/daweixie_cv.pdf)**
