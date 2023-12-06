@@ -29,4 +29,4 @@ I am a recent master graduate in computer science from [Washington University in
 
 I obtained my bachelor's degree in CS from Southwest University (Chongqing, China). Prior to grad school, my research revolved around uncertainty representation & reasoning, decision making under uncertainty, causal inference, and preference aggregation for decision support systems.
 
-Please check my **[C.V.](./assets/pdf/daweixie_cv.pdf)**
+Please check my **[C.V.](./assets/pdf/daweixie_cv.pdf)** and my **[Academic Statement](./assets/pdf/sop.pdf)**
