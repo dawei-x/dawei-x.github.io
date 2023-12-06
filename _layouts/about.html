@@ -11,7 +11,7 @@ layout: default
           <p class="desc">{{ page.subtitle }}</p>
         </header>
 
-        <article>
+        <article>  
           {% if page.profile -%}
           <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
             {%- if page.profile.image %}
@@ -29,11 +29,13 @@ layout: default
               alt=page.profile.image
               cache_bust=true -%}
             {% endif -%}
+            
             {%- if page.profile.more_info %}
             <div class="more-info">
               {{ page.profile.more_info }}
             </div>
             {%- endif %}
+
           </div>
           {%- endif %}
 
