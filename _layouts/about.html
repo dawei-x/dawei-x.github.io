@@ -35,6 +35,14 @@ layout: default
               {{ page.profile.more_info }}
             </div>
             {%- endif %}
+            
+            {%- if page.social %}
+            <div class="social">
+              <div class="contact-icons" style="font-size: 2.5em;">
+                {% include social.html %}
+              </div>
+            </div>
+          {%- endif %} 
 
           </div>
           {%- endif %}
@@ -61,7 +69,7 @@ layout: default
             {%- include selected_papers.html %}
           {%- endif %} 
 
-          <!-- Social 
+          <!-- Social -->
           {%- if page.social %}
             <div class="social">
               <div class="contact-icons">
@@ -73,7 +81,7 @@ layout: default
               </div>
 
             </div>
-          {%- endif %} -->
+          {%- endif %} 
         </article>
 
 </div>
