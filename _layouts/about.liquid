@@ -5,7 +5,7 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">
       {% if site.title == 'blank' %}
-        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
+        {{ site.first_name }}
         {{ site.last_name }}
       {% else %}
         {{ site.title }}
@@ -35,43 +35,49 @@ layout: default
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
+      {% if page.social %}
+      <div class="social">
+        <div class="contact-icons" style="font-size: 2.5rem;">{% include social.liquid %}</div>
+       <!--  <div class="contact-note">{{ site.contact_note }}</div> -->
+      </div>
+    {% endif %}
       </div>
     {% endif %}
 
     <div class="clearfix">{{ content }}</div>
 
-    <!-- News -->
+    <!-- News 
     {% if page.announcements and page.announcements.enabled %}
       <h2>
         <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
       </h2>
       {% include news.liquid limit=true %}
-    {% endif %}
+    {% endif %} -->
 
-    <!-- Latest posts -->
+    <!-- Latest posts 
     {% if page.latest_posts and page.latest_posts.enabled %}
       <h2>
         <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
       </h2>
       {% include latest_posts.liquid %}
-    {% endif %}
+    {% endif %} -->
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Papers</a>
       </h2>
       {% include selected_papers.liquid %}
-    {% endif %}
+    {% endif %} 
 
-    <!-- Social -->
+    <!-- Social 
     {% if page.social %}
       <div class="social">
         <div class="contact-icons">{% include social.liquid %}</div>
 
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
-    {% endif %}
+    {% endif %} -->
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
