@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: 
 
@@ -26,4 +26,4 @@ latest_posts:
 
 I'm a first-year PhD student in Computer Science at **[Northwestern University.](https://www.northwestern.edu/)** My recent projects have focused on statistical uncertainty quantification in human-AI interaction, and on interactive interfaces that assist users with exploratory analysis [\[in progress\]](https://dawei-x.github.io/rashomon/).
 
-I graduated with a master's degree from <a href="https://wustl.edu/" style="color: #a51417;">Washington University in St. Louis</a> and did my bachelor's at Southwest University (Chongqing, China). My prior research experiences involved uncertainty representation & reasoning, causal inference, and preference aggregation for decision support systems [\[prototype\]](https://dawei-x.github.io/ifv-prototype).
+I graduated with a master's degree from <a href="https://wustl.edu/" style="color: #a51417;">Washington University in St. Louis</a> and did my bachelor's at Southwest University (Chongqing, China). My prior research experiences involved uncertainty representation & reasoning, causal inference, and preference aggregation for decision support systems **[\[prototype\]](https://dawei-x.github.io/ifv-prototype)**.
