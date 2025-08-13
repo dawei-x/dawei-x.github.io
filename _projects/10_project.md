@@ -5,6 +5,6 @@ description: collaborative project in progress; interacting with sets of interpr
 img: assets/img/rashomon.png
 redirect: https://dawei-x.github.io/rashomon/
 importance: 3
-category: research
+category: prototypes
 ---
 

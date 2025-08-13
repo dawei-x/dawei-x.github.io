@@ -5,7 +5,7 @@ permalink: /projects/
 description: Some projects and notes.
 nav: true
 nav_order: 3
-display_categories: [research]
+display_categories: [prototypes, notes]
 horizontal: false
 ---
 

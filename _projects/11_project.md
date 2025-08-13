@@ -5,6 +5,6 @@ description: a decision support system prototype for preference elicitation and 
 img: assets/img/ifv.png
 redirect: https://dawei-x.github.io/ifv-prototype/
 importance: 3
-category: research
+category: prototypes
 ---
 
