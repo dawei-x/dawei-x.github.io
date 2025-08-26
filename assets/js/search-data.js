@@ -395,36 +395,36 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-rashomon-interface",
-          title: 'Rashomon Interface',
-          description: "collaborative project in progress; interacting with sets of interpretable models.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/10_project/";
-            },},{id: "projects-ifv-decision-support-tool",
-          title: 'IFV Decision Support Tool',
-          description: "a decision support system prototype for preference elicitation and aggregation.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/11_project/";
-            },},{id: "projects-notes-on-online-conformal-prediction",
-          title: 'Notes on Online Conformal Prediction',
-          description: "algorithms and regret guarantees for online conformal prediction.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/12_project/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-proxy-enhanced-set-generator",
+          title: 'Proxy-Enhanced Set Generator',
+          description: "A demo for an embedding-based, similarity-driven visual stimuli generation framework to characterize predictive uncertainty while surfacing human-AI perceptual alignment.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project_stimuli/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-rashomon-interface",
+          title: 'Rashomon Interface',
+          description: "Collaborative project in progress; interacting with sets of interpretable models.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project_rashomon/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-ifv-decision-support-tool",
+          title: 'IFV Decision Support Tool',
+          description: "A decision support system prototype for preference elicitation and aggregation.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project_ifv/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
@@ -455,12 +455,24 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-notes-on-online-conformal-prediction",
+          title: 'Notes on Online Conformal Prediction',
+          description: "algorithms and regret guarantees for online conformal prediction.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/notes_online/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
         section: 'Socials',
         handler: () => {
           window.open("https://bsky.app/profile/daweixie.bsky.social", "_blank");
+        },
+      },{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%64%61%77%65%69%78%69%65@%75.%6E%6F%72%74%68%77%65%73%74%65%72%6E.%65%64%75", "_blank");
         },
       },{
         id: 'social-github',
