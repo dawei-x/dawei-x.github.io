@@ -11,6 +11,7 @@ profile:
   more_info: daweixie[at]u.northwestern.edu
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
+projects: true
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -22,8 +23,10 @@ latest_posts:
   enabled: false
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
+display_categories: [prototypes]
 ---
 
-I'm a first-year PhD student in Computer Science at **[Northwestern University.](https://www.northwestern.edu/)** My recent projects have focused on statistical uncertainty quantification in human-AI interaction, and on interactive interfaces that assist users with exploratory analysis [\[in progress\]](https://dawei-x.github.io/rashomon/).
+I'm a first-year CS PhD student at **[Northwestern University.](https://www.northwestern.edu/)** My recent projects have focused on statistical uncertainty quantification in human-AI interaction **[\[demo\]](https://dawei-x.github.io/stimuli_demo/)**, and on interactive interfaces that assist users with exploratory analysis [\[in progress\]](https://dawei-x.github.io/rashomon/).
 
-I graduated with a master's degree from <a href="https://wustl.edu/" style="color: #a51417;">Washington University in St. Louis</a> and did my bachelor's at Southwest University. My prior research experiences involved uncertainty representation & reasoning, causal inference, and preference elicitation & aggregation for decision support systems **[\[prototype\]](https://dawei-x.github.io/ifv-prototype)**.
+I graduated with a master's degree from <a href="https://wustl.edu/" style="color: #a51417;">Washington University in St. Louis</a> and did my bachelor's at Southwest University. My prior research experiences involved uncertainty representation & reasoning, causal inference, and preference elicitation & aggregation for decision support systems **[\[prototype\]](https://dawei-x.github.io/ifv-prototype/)**.
