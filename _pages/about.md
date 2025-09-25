@@ -27,6 +27,6 @@ latest_posts:
 display_categories: [prototypes]
 ---
 
-I'm a second-year Computer Science PhD student at **[Northwestern University](https://www.northwestern.edu/)** working on designing and evaluating interactive systems. My recent projects focused on uncertainty quantification in human-AI interaction **[\[demo\]](https://dawei-x.github.io/stimuli_demo/)**, and interactive interfaces for assisting users with exploratory analysis [\[in progress\]](https://dawei-x.github.io/rashomon/).
+I'm a second-year Computer Science PhD student at **[Northwestern University](https://www.northwestern.edu/)**, working with **[Prof. Marcelo Worsley](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/worsley-marcelo.html)** in the **[tiilt Lab](https://tiilt.northwestern.edu/)** on designing and evaluating AI-augmented multimodal interactive systems. My current research focuses on building multimodal fusion pipelines and intelligent analytics dashboards.
 
-My prior research experiences involved uncertainty representation & reasoning, causal inference, and preference elicitation & aggregation for decision support systems **[\[prototype\]](https://dawei-x.github.io/ifv-prototype/)**.
+My previous projects include uncertainty quantification in human-AI interaction **[\[demo\]](https://dawei-x.github.io/stimuli_demo/)**, and interactive interfaces for assisting users with exploratory analysis [\[in progress\]](https://dawei-x.github.io/rashomon/). My prior research experiences also involved uncertainty representation & reasoning, causal inference, and preference elicitation & aggregation for decision support systems <strong><a href="https://dawei-x.github.io/ifv-prototype/" style="color:#976666;">[prototype]</a></strong>.
