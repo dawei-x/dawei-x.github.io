@@ -38,17 +38,6 @@ ninja.data = [{
             window.location.href = "/blog/2024/photo-gallery/";
           
         },
-      },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
-        
-          title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
-          
-        },
       },{id: "post-a-post-with-tabs",
         
           title: "a post with tabs",
@@ -269,17 +258,6 @@ ninja.data = [{
             window.location.href = "/blog/2022/giscus-comments/";
           
         },
-      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
-        
-          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
-          
-        },
       },{id: "post-a-post-with-redirect",
         
           title: "a post with redirect",
@@ -400,9 +378,9 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-proxy-enhanced-set-generator",
-          title: 'Proxy-Enhanced Set Generator',
-          description: "A demo for an embedding-based, similarity-driven visual stimuli generation framework to characterize predictive uncertainty while surfacing human-AI perceptual alignment.",
+            },},{id: "projects-proxy-augmented-prediction-sets",
+          title: 'Proxy-Augmented Prediction Sets',
+          description: "An embedding-based, similarity-driven visual stimuli generation framework to characterize predictive uncertainty while surfacing human-AI perceptual alignment.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project_stimuli/";
             },},{id: "projects-project-2",
@@ -412,7 +390,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-rashomon-interface",
           title: 'Rashomon Interface',
-          description: "Collaborative project in progress; interacting with sets of interpretable models.",
+          description: "Collaborative project; interacting with sets of interpretable models to explore predictive multiplicity and feature attributions.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project_rashomon/";
             },},{id: "projects-project-3-with-very-long-name",
@@ -461,13 +439,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/notes_online/";
             },},{
-        id: 'social-bluesky',
-        title: 'Bluesky',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://bsky.app/profile/daweixie.bsky.social", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -489,11 +460,25 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=xW__Wf8AAAAJ", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/dawei-x-a26a88216", "_blank");
+        },
+      },{
         id: 'social-x',
         title: 'X',
         section: 'Socials',
         handler: () => {
           window.open("https://twitter.com/daweidxie", "_blank");
+        },
+      },{
+        id: 'social-bluesky',
+        title: 'Bluesky',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://bsky.app/profile/daweixie.bsky.social", "_blank");
         },
       },{
       id: 'light-theme',
