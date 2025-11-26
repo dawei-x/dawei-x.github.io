@@ -37,7 +37,7 @@ layout: default
         {% endif %}
       {% if page.social %}
       <div class="social">
-        <div class="contact-icons" style="font-size: 2.5rem;">{% include social.liquid %}</div>
+        <div class="contact-icons" style="font-size: 2rem;">{% include social.liquid %}</div>
        <!--  <div class="contact-note">{{ site.contact_note }}</div> -->
       </div>
     {% endif %}
@@ -64,7 +64,7 @@ layout: default
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
-      <h2>
+      <h2 style="font-weight: 600; font-size: 1.5rem;">
         <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Papers</a>
       </h2>
       {% include selected_papers.liquid %}
@@ -73,8 +73,8 @@ layout: default
     <div style="margin-top: 2rem;"></div>
     
     <!-- Projects -->
-     <h2>
-        <a href="{{ '/projects/' | relative_url }}" style="color: inherit">Projects</a>
+     <h2 style="font-weight: 600; font-size: 1.5rem;">
+        <a href="{{ '/projects/' | relative_url }}" style="color: inherit">Previous Projects</a>
       </h2>
     <div class="projects">
     {% if site.enable_project_categories and page.display_categories %}
