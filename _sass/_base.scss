@@ -21,6 +21,12 @@ code, pre, kbd, samp {
   font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
 }
 
+.text-highlight {
+  background-color: var(--global-text-highlight-bg);
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+
 p,
 h1,
 h2,
