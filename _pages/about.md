@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: daweixie[at]u.northwestern.edu
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 projects: true
 social: true # includes social icons at the bottom of the page
 
@@ -27,6 +27,6 @@ latest_posts:
 display_categories: [prototypes]
 ---
 
-I'm a second-year Computer Science PhD student at **[Northwestern University](https://www.northwestern.edu/)**, working with **[Prof. Marcelo Worsley](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/worsley-marcelo.html)** in the **[tiilt Lab](https://tiilt.northwestern.edu/)** on designing and evaluating AI-augmented multimodal interactive systems. My current research focuses on building <span class="text-highlight">LLM-powered intelligent analytics dashboards</span> to facilitate data-driven, context-aware scaffolding and feedback for collaboration practices.
+I'm a second-year Computer Science PhD student at **[Northwestern University](https://www.northwestern.edu/)**, working with **[Prof. Marcelo Worsley](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/worsley-marcelo.html)** in the **[tiilt Lab](https://tiilt.northwestern.edu/)** on designing and evaluating AI-augmented multimodal interactive systems. My current research focuses on building LLM-powered <span class="text-highlight">analytics dashboards</span> and <span class="text-highlight">conversational agents</span> to facilitate data-driven, context-aware scaffolding and feedback for collaboration learning.
 
 My past projects include uncertainty quantification in human-AI interaction **[\[demo\]](https://dawei-x.github.io/stimuli_demo/)**, and interactive interfaces for assisting users with exploratory analysis [<i class="fas fa-link"></i>](https://dawei-x.github.io/rashomon/). My earlier research also involved uncertainty representation & reasoning, causal inference, and preference elicitation & aggregation for decision support systems <strong><a href="https://dawei-x.github.io/ifv-prototype/" style="color:#976666;">[prototype]</a></strong>.
