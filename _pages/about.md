@@ -15,8 +15,8 @@ projects: true
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
-  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
@@ -27,6 +27,6 @@ latest_posts:
 display_categories: [prototypes]
 ---
 
-I'm a second-year Computer Science PhD student at **[Northwestern University](https://www.northwestern.edu/)**, working with **[Prof. Marcelo Worsley](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/worsley-marcelo.html)** in the **[tiilt Lab](https://tiilt.northwestern.edu/)** on designing and evaluating AI-augmented multimodal interactive systems. My current research focuses on building LLM-powered <span class="text-highlight">analytics dashboards</span> and <span class="text-highlight">conversational agents</span> to facilitate data-driven, context-aware scaffolding and feedback for collaboration learning.
+I'm a second-year Computer Science PhD student at **[Northwestern University](https://www.northwestern.edu/)**, working with **[Prof. Marcelo Worsley](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/worsley-marcelo.html)** in the **[tiilt Lab](https://tiilt.northwestern.edu/)** on designing and evaluating AI-augmented multimodal interactive systems. My current research focuses on building LLM-powered <span class="text-highlight">analytics dashboards</span> and <span class="text-highlight">conversational agents</span> to support data-driven, context-aware scaffolding for *communication* and *collaboration*.
 
 My past projects include uncertainty quantification in human-AI interaction **[\[demo\]](https://dawei-x.github.io/stimuli_demo/)**, and interactive interfaces for assisting users with exploratory analysis [<i class="fas fa-link"></i>](https://dawei-x.github.io/rashomon/). My earlier research also involved uncertainty representation & reasoning, causal inference, and preference elicitation & aggregation for decision support systems <strong><a href="https://dawei-x.github.io/ifv-prototype/" style="color:#976666;">[prototype]</a></strong>.
