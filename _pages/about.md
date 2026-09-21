@@ -2,13 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
   image: david_x.jpg
   image_circular: false # crops the image to make it circular
   more_info: daweixie[at]u.northwestern.edu
+  motto_below_icons: 一切種子如瀑流
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 projects: true
@@ -27,6 +28,6 @@ latest_posts:
 display_categories: [prototypes]
 ---
 
-I'm a Computer Science PhD student at **[Northwestern University](https://www.northwestern.edu/)**, working with **[Prof. Marcelo Worsley](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/worsley-marcelo.html)** in the **[tiilt Lab](https://tiilt.northwestern.edu/)** on designing and evaluating AI-augmented interactive systems. My current research focuses on building <span class="text-highlight">intelligent analytics dashboards</span> and <span class="text-highlight">LLM agents</span> to support context-aware scaffolding for *communication* and *collaboration*.
+I'm a CS PhD student at **[Northwestern University](https://www.northwestern.edu/)**, working with **[Prof. Marcelo Worsley](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/worsley-marcelo.html)** on designing and evaluating AI-augmented interactive systems. My current research focuses on building <span class="text-highlight">intelligent analytics dashboards</span> and <span class="text-highlight">LLM agents</span> (e.g., **[CLARA](https://link.springer.com/chapter/10.1007/978-3-032-29755-6_23)**) to support context-aware scaffolding for *communication* and *collaboration*.
 
-My past projects include uncertainty quantification in human-AI interaction [<i class="fas fa-link"></i>](https://dawei-x.github.io/stimuli_demo/). My undergraduate research involved uncertainty representation & reasoning, causal inference, and preference elicitation & aggregation for decision support systems <strong><a href="https://dawei-x.github.io/ifv-prototype/" style="color:#976666;">[prototype]</a></strong>.
+My past projects include uncertainty quantification in human–AI interaction [<i class="fas fa-link"></i>](https://dawei-x.github.io/stimuli_demo/). My undergraduate research involved uncertainty representation & reasoning, causal inference, and preference elicitation & aggregation for decision support systems <strong><a href="https://dawei-x.github.io/ifv-prototype/" style="color:#976666;">[prototype]</a></strong>.

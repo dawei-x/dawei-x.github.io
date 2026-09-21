@@ -41,6 +41,9 @@ layout: default
        <!--  <div class="contact-note">{{ site.contact_note }}</div> -->
       </div>
     {% endif %}
+      {% if page.profile.motto_below_icons %}
+        <div class="motto" style="font-style: italic; font-synthesis: weight; margin-top: 0.5rem;">{{ page.profile.motto_below_icons }}</div>
+      {% endif %}
       </div>
     {% endif %}
 
