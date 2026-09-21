@@ -386,17 +386,20 @@ ninja.data = [{
           section: "News",},{id: "news-clara-an-ai-augmented-analytics-dashboard-for-collaboration-literacy-accepted-to-aied-2026-kr",
           title: 'CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy accepted to AIED 2026 :kr:...',
           description: "",
+          section: "News",},{id: "news-artifact-grounded-analytics-agentic-reasoning-across-heterogeneous-representations-presented-at-crossmmla-lak-2026-virtual-norway",
+          title: 'Artifact-Grounded Analytics: Agentic Reasoning Across Heterogeneous Representations presented at CrossMMLA@LAK 2026 (virtual) :norway:...',
+          description: "",
           section: "News",},{id: "news-measuring-collaborative-reasoning-with-llms-accepted-to-aime-con-2026",
-          title: 'Measuring Collaborative Reasoning with LLMs accepted to AIME-Con 2026.',
+          title: 'Measuring Collaborative Reasoning with LLMs accepted to AIME-Con 2026',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-blinc",
-          title: 'BLINC',
-          description: "A discussion capturing system that supports real-time multimodal learning analytics and feedback.",
+            },},{id: "projects-clara",
+          title: 'CLARA',
+          description: "An agentic analytics system that extracts semantic representations as shared analytics artifacts to support agent retrieval and reasoning.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project_blinc_earlier/";
             },},{id: "projects-project-2",
@@ -406,7 +409,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-proxy-augmented-prediction-sets",
           title: 'Proxy-Augmented Prediction Sets',
-          description: "An embedding-based, similarity-driven visual stimuli framework that characterizes predictive uncertainty while surfacing human-AI perceptual alignment.",
+          description: "An embedding-based, similarity-driven visual stimuli framework that characterizes predictive uncertainty while surfacing human–AI perceptual alignment.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project_stimuli/";
             },},{id: "projects-project-3-with-very-long-name",
