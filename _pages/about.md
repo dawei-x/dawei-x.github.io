@@ -9,7 +9,7 @@ profile:
   image: david_x.jpg
   image_circular: false # crops the image to make it circular
   more_info: daweixie[at]u.northwestern.edu
-  motto_below_icons: 一切種子如瀑流
+  motto_below_icons: 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 projects: true

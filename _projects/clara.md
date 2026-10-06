@@ -3,7 +3,7 @@ layout: page
 title: CLARA
 description: An agentic analytics system that extracts semantic representations as shared analytics artifacts to support agent retrieval and reasoning.
 img: assets/img/blinc_earlier_view.png
-importance: 3
+importance: 1
 category: prototypes
 ---
 
