@@ -397,11 +397,6 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-clara",
-          title: 'CLARA',
-          description: "An agentic analytics system that extracts semantic representations as shared analytics artifacts to support agent retrieval and reasoning.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project_blinc_earlier/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
@@ -452,6 +447,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-clara",
+          title: 'CLARA',
+          description: "An agentic analytics system that extracts semantic representations as shared analytics artifacts to support agent retrieval and reasoning.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/clara/";
             },},{id: "projects-notes-on-online-conformal-prediction",
           title: 'Notes on Online Conformal Prediction',
           description: "algorithms and regret guarantees for online conformal prediction.",
@@ -476,7 +476,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=xW__Wf8AAAAJ&view_op=list_works&sortby=pubdate", "_blank");
+          window.open("https://scholar.google.com/citations?user=xW__Wf8AAAAJ", "_blank");
         },
       },{
         id: 'social-linkedin',
