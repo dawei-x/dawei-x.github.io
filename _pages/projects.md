@@ -2,7 +2,6 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Some projects and notes.
 nav: true
 nav_order: 3
 display_categories: [prototypes]

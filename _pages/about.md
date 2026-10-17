@@ -6,13 +6,13 @@ subtitle:
 
 profile:
   align: right
-  image: david_x.jpg
+  image: dawei_01_2026.jpg
   image_circular: false # crops the image to make it circular
   more_info: daweixie[at]u.northwestern.edu
   motto_below_icons: 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-projects: true
+projects: false # true shows project cards on the home page
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -28,6 +28,7 @@ latest_posts:
 display_categories: [prototypes]
 ---
 
-I'm a CS PhD student at **[Northwestern University](https://www.northwestern.edu/)**, working with **[Prof. Marcelo Worsley](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/worsley-marcelo.html)** on designing and evaluating AI-augmented interactive systems. My current research focuses on building <span class="text-highlight">intelligent analytics dashboards</span> and <span class="text-highlight">LLM agents</span> (e.g., **[CLARA](https://link.springer.com/chapter/10.1007/978-3-032-29755-6_23)**) to support context-aware scaffolding for *communication* and *collaboration*.
+I'm a CS PhD student at **[Northwestern University](https://www.northwestern.edu/)**, working with **[Prof. Marcelo Worsley](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/worsley-marcelo.html)** on designing and evaluating AI-augmented interactive systems. My current research focuses on (i) building <span class="text-highlight">intelligent analytics dashboards</span> and <span class="text-highlight">LLM agents</span> (e.g., **[CLARA](/projects/clara/)**) to support context-aware human–AI sensemaking of *communication* and *collaboration* in multi-party conversations; (ii) advancing <span class="text-highlight">social reasoning</span> in AI agents to understand and navigate nuanced human interactions.
 
-My past projects include uncertainty quantification in human–AI interaction [<i class="fas fa-link"></i>](https://dawei-x.github.io/stimuli_demo/). My undergraduate research involved uncertainty representation & reasoning, causal inference, and preference elicitation & aggregation for decision support systems <strong><a href="https://dawei-x.github.io/ifv-prototype/" style="color:#976666;">[prototype]</a></strong>.
+**I'm seeking internship opportunities for 2027. Please feel free to reach out!**
+{: .callout}

@@ -27,6 +27,16 @@ code, pre, kbd, samp {
   border-radius: 3px;
 }
 
+// Callout for a short announcement in page text, e.g. the internship line on the about page.
+// Uses the theme color, so it follows the light/dark toggle.
+.callout {
+  display: flow-root; // sits beside the floated profile card instead of running under it
+  border-left: 3px solid var(--global-theme-color);
+  background-color: color-mix(in srgb, var(--global-theme-color) 7%, transparent);
+  border-radius: 0 4px 4px 0;
+  padding: 0.6rem 1rem;
+}
+
 p,
 h1,
 h2,
@@ -1167,7 +1177,7 @@ nav[data-toggle="toc"] {
 
 .medium-zoom-overlay,
 .medium-zoom-image--opened {
-  z-index: 999;
+  z-index: 1040; // above the fixed navbar and footer (Bootstrap 1030), like a modal
 }
 
 #toc-sidebar {
