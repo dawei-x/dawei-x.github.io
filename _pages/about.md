@@ -28,7 +28,7 @@ latest_posts:
 display_categories: [prototypes]
 ---
 
-I'm a CS PhD student at **[Northwestern University](https://www.northwestern.edu/)**, working with **[Prof. Marcelo Worsley](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/worsley-marcelo.html)** on designing and evaluating AI-augmented interactive systems. My current research focuses on (i) building <span class="text-highlight">intelligent analytics dashboards</span> and <span class="text-highlight">LLM agents</span> (e.g., **[CLARA](/projects/clara/)**) to support context-aware human–AI sensemaking of *communication* and *collaboration* in multi-party conversations; (ii) advancing <span class="text-highlight">social reasoning</span> in AI agents to understand and navigate nuanced human interactions.
+I'm a CS PhD student at **[Northwestern University](https://www.northwestern.edu/)**, working with **[Prof. Marcelo Worsley](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/worsley-marcelo.html)** on designing and evaluating AI-augmented interactive systems. My research focuses on (i)&nbsp;building <span class="text-highlight">intelligent user interfaces</span> and <span class="text-highlight">LLM agents</span> (e.g., **[CLARA](/projects/clara/)**) to support context-aware human–AI analytics and sensemaking of multi-party conversations; (ii)&nbsp;improving agents' <span class="text-highlight">social reasoning</span> to understand and navigate nuanced human interactions.
 
 **I'm seeking internship opportunities for 2027. Please feel free to reach out!**
 {: .callout}

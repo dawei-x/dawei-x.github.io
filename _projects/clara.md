@@ -1,14 +1,19 @@
 ---
 layout: page
 title: CLARA
-description: An agentic analytics system that extracts semantic representations as shared analytics artifacts to support agent retrieval and reasoning.
+description: An agentic analytics system that extracts semantic representations from multi-party conversations as shared artifacts to support agent retrieval and reasoning.
 img: assets/img/blinc_earlier_view.png
 importance: 1
 category: prototypes
+_styles: >
+  .post-description {
+    font-size: 1rem;
+    font-weight: 400;
+  }
 ---
 
 
-**Paper:** [CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy](https://link.springer.com/chapter/10.1007/978-3-032-29755-6_23) &middot; [arXiv](https://arxiv.org/abs/2605.17259)
+**Paper:** **[CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy (AIED 2026)](https://link.springer.com/chapter/10.1007/978-3-032-29755-6_23)** &middot; [arXiv](https://arxiv.org/abs/2605.17259)
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
