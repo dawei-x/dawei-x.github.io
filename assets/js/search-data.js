@@ -449,7 +449,7 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "projects-clara",
           title: 'CLARA',
-          description: "An agentic analytics system that extracts semantic representations as shared analytics artifacts to support agent retrieval and reasoning.",
+          description: "An agentic analytics system that extracts semantic representations from multi-party conversations as shared artifacts to support agent retrieval and reasoning.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/clara/";
             },},{id: "projects-notes-on-online-conformal-prediction",
@@ -457,6 +457,11 @@ ninja.data = [{
           description: "algorithms and regret guarantees for online conformal prediction.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/notes_online/";
+            },},{id: "projects-rashomon-model-explorer",
+          title: 'Rashomon Model Explorer',
+          description: "An interactive system that supports experts in exploring sets of interpretable, near-optimal models using their domain knowledge.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/rashomon/";
             },},{
         id: 'social-email',
         title: 'email',
